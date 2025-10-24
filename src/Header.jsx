@@ -80,7 +80,7 @@ const Header = () => {
             <a href="#About" className="mobile-nav-link" onClick={handleNavClick}>About</a>
             <a href="#Services" className="mobile-nav-link" onClick={handleNavClick}>Services</a>
             <a href="#About" className="mobile-nav-link" onClick={handleNavClick}>Experience</a>
-            <a href="#Contact" className="mobile-nav-link" onClick={handleNavClick}>Contact</a>
+            <a href="#Videos" className="mobile-nav-link" onClick={handleNavClick}>Videos</a>
           </nav>
 
           {/* Mobile Footer */}
@@ -91,7 +91,7 @@ const Header = () => {
                 <span>+91 9951155742</span>
               </div>
             </div>
-            <div className="mobile-nav-bg-text">Legal</div>
+            
           </div>
         </div>
       </div>
