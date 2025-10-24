@@ -15,8 +15,8 @@ function App() {
       {/* <Contact/> */}
       <Footer/>
       <Float 
-        phoneNumber="+919553410353" 
-        whatsappNumber="+919553410353" 
+        phoneNumber="+919951155742" 
+        whatsappNumber="+919951155742" 
       />
     </div>
   );

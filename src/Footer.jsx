@@ -54,14 +54,15 @@ const Footer = () => {
             <div className="singer-footer__social">
               <h5 className="singer-footer__social-title">Follow My Journey</h5>
               <div className="singer-footer__social-buttons">
-                {/* <button 
-                  className="singer-footer__social-btn singer-footer__social-btn--instagram"
-                  onClick={() => handleSocialNav('instagram')}
-                  aria-label="Follow on Instagram"
-                >
-                  <Instagram size={20} />
-                  <span className="singer-footer__social-text">Instagram</span>
-                </button> */}
+                <button 
+  className="singer-footer__social-btn singer-footer__social-btn--instagram"
+  onClick={() => window.open('https://www.instagram.com/nee_tv_/', '_blank')}
+  aria-label="Follow on Instagram"
+>
+  <Instagram size={20} />
+  <span className="singer-footer__social-text">Instagram</span>
+</button>
+
                  <button 
       className="singer-footer__social-btn singer-footer__social-btn--youtube"
       onClick={() => handleSocialNav('https://www.youtube.com/@neetv2531')}
