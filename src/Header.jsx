@@ -88,7 +88,7 @@ const Header = () => {
             <div className="mobile-contact-info">
               <div className="mobile-contact-item">
                 <Phone className="contact-icon" />
-                <span>+91 95534 10353</span>
+                <span>+91 9951155742</span>
               </div>
             </div>
             <div className="mobile-nav-bg-text">Legal</div>
